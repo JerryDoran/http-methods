@@ -1,0 +1,17 @@
+#control-center {
+  border: 2px solid #333;
+  width: 400px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0 auto;
+}
+
+#get-btn,
+#post-btn {
+  padding: 10px 20px;
+  background-color: darkblue;
+  color: white;
+  font-size: 18px;
+}
